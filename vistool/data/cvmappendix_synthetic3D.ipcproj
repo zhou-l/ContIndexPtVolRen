@@ -1,0 +1,9 @@
+data vols path: .\synthetic
+data vols: "cvmappendix_synthVol3D1.nrrd" "cvmappendix_synthVol3D2.nrrd" "cvmappendix_synthVol3D3.nrrd" 
+idx pt vols path: .\synthetic\idxVols
+idx pt vols: "synthNew0X.nhdr" "synthNew0Y.nhdr" "synthNew1X.nhdr" "synthNew1Y.nhdr" 
+eigenvec vols: 
+idx pt density maps path: .\synthetic\cvm_appendixDensitymaps
+2-flats vols path: .\synthetic\idxVols
+2-flats vols: "synthNew_2flat_idx_0_X.nhdr" "synthNew_2flat_idx_0_Y.nhdr"
+2-flats density maps path: .\synthetic\cvm_appendixDensitymaps
