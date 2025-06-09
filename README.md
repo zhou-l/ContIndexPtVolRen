@@ -17,8 +17,11 @@ If you use our approach, please cite the following paper.
 ![Continuous indexed points for volume visualization](/images/cvm25.png)
 
 # Installations
-To install the visualization tool, unzip "bin.zip" and "opencv_world450.zip" in the vistool directory. They are placed separately due to the file size limit of github.
+To install the visualization tool, unzip "bin.zip" and "opencv_world450.zip" in the vistool directory. 
+
 Place the unzipped "opencv_world450.dll" to the unzipped bin directory. 
+
+[Binary files are placed separately due to the file size limit of github.]
 
 # How to Run?
 
