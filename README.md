@@ -15,20 +15,6 @@ If you use our approach, please cite the following paper.
 ````
 ![Continuous indexed points for volume visualization](/images/cvm25.png)
 
-The project also integrates the "Angle-Uniform Parallel Coordinates" method.
-If that functionality is used without the volume visualization techniques, please cite:
-```
-@Article{Zhang2023,
-  author   = {Zhang, Kaiyi and Zhou, Liang and Chen, Lu and He, Shitong and Weiskopf, Daniel and Wang, Yunhai},
-  journal  = {Computational Visual Media},
-  title    = {Angle-uniform parallel coordinates},
-  year     = {2023},
-  doi      = {10.1007/s41095-022-0291-7},
-  url      = {https://doi.org/10.1007/s41095-022-0291-7},
-}
-
-```
-![Angle-uniform parallel coordinates](/images/cvm23.png)
 # Installations
 Install the visualization tool:
 
