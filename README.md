@@ -29,7 +29,10 @@ Run the visualization tool using "QImprovedContPlots.exe" in the unzipped bin di
 
 # Example Datasets
 A number of synthetic datasets are included in the "data" directory. 
-The user can open a ".ipcproj" file from "File"->"Open Project File" to load one dataset at a time. You will have to close the application and restart it to load another dataset.
+The user can open a ".ipcproj" file through "File"->"Open Project File" to load one dataset at a time. 
+You will have to close the application and restart it to load another dataset.
+![The synthetic data of 'cvmappendix_synthetic3D.ipcproj' (the dataset of Fig. 14 of the paper ) ](/images/cvm25.png)
+
 
 # Documentation
 Find the documentation "Instruction.pdf" in the vistool directory.
