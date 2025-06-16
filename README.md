@@ -27,5 +27,12 @@ Place the unzipped "opencv_world450.dll" to the unzipped bin directory.
 
 Run the visualization tool using "QImprovedContPlots.exe" in the unzipped bin directory.
 
+# Example Datasets
+A number of synthetic datasets are included in the "data" directory. 
+The user can open a ".ipcproj" file from "File"->"Open Project File" to load one dataset at a time. You will have to close the application and restart it to load another dataset.
+
 # Documentation
 Find the documentation "Instruction.pdf" in the vistool directory.
+
+# The Matlab Code
+The Matlab code concern the preprocessing of multivariate volumes and converting discrete indexed points to continuous.
