@@ -1,19 +1,22 @@
 # Continuous Indexed Points for Multivariate Volume Visualization
 The project includes the visualization tool for exporing processed multivariate volumes, and the Matlab code that preprocesses the multivariate volumes and indexed points.
 
-More information can be found in the paper "Continuous Indexed Points for Multivariate Volume Visualization" by Liang Zhou, Xinyi Gou, and Daniel Weiskopf. (The CVM journal).
-If you use our approach, please cite the following paper.
+More information can be found in the paper "Continuous Indexed Points for Multivariate Volume Visualization" by Liang Zhou, Xinyi Gou, and Daniel Weiskopf. 
+If you use our approach, please cite as follows.
 ```
 @ARTICLE{Zhou2025cvm,
   author={Zhou, Liang and Gou, Xinyi and Weiskopf, Daniel},
   title={Continuous Indexed Points for Multivariate Volume Visualization}, 
   journal={Computational Visual Media}, 
-  year={},
+  year={in press},
   volume={},
   number={},
-  pages={}
+  pages={},
+  doi={10.26599/CVM.2025.9450496 }
   }
 ````
+The arXiv version of the paper can be found at: [arXiv:2506.19400](https://arxiv.org/abs/2506.19400).
+
 ![Continuous indexed points for volume visualization](/images/cvm25.png)
 
 # Installations
