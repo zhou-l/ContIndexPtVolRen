@@ -40,5 +40,10 @@ You will have to close the application and restart it to load another dataset.
 # Documentation
 Find the documentation "Instruction.pdf" in the vistool directory.
 
+In addition, key buttons are used to control the viewers.
+
+T-Key: press "T" with the volume renderer being the current view to recompile shaders.
+E-Key: press "E" with the volume renderer being the current view to cycle through compare modes for spatial and data domain indexed points computation.
+F-Key: press "F" with the parallel coordinates being the current view to cycle through compare modes for spatial and data domain indexed points computation. 
 # The Matlab Code
 The Matlab code concern the preprocessing of multivariate volumes and converting discrete indexed points to continuous.
