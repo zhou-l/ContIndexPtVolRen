@@ -54,9 +54,10 @@ F-Key: press "F" with the parallel coordinates being the current view to cycle t
 The associations of paper figures and datasets:
 Fig1-DTI (1-flat); Fig3-fig3_synth3D, fig3_planeSynth; Fig4-Isabel; Fig5-CT tooth; Fig6,7-BraTs MRI; Fig 8-fig3_synth3D, fig3_planeSynth; Fig 9-Isabel; Fig 10-DTI(2-flat); Fig12,13,14 - synthVol3D; Fig15-CT tooth (val vs. gradient mag); Fig16 - BraTs (T1 vs. gradient mag). 
 
-# The preprocessing tool
+# Computation of indexed points volumes
+The indexed volumes can be computed in the visualization software when loading the original data volumes and enable the correlation computation in the spatial neighborhood. For correct results, please set the sampling rate for computation to 1 (100%). 
 # Python and Matlab Code
-The indexed volumes can be computed in the visualization software when loading the original data volumes and enable the correlation computation in the spatial neighborhood. For correct results, please set the sampling rate for computation to 1 (100%). This can also be done with the Matlab code which is slower.
+This can also be done with the Python or the Matlab code, which is slower.
 While the computation gives the indexed point volumes, it also yield a large .txt file that contains the 2D positions of indexed points on the image plane of the parallel coordinates that can be converted into a continuous density representation.
 
 The Matlab code concern the preprocessing of multivariate volumes and converting discrete indexed points to a continuous density.
